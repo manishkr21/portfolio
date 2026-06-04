@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Lead Project - Grievance Monitoring & Analysis System",
+      "date": "2023-current",
+      "desc": "Leading a project to develop a system for monitoring and analyzing grievances using NLP and ML techniques."
+    },
+    {
+      "title": "Paper2Bits: OCR based Digital forms conversion system",
+      "date": "2024",
+      "desc": "Developed a system to convert scanned forms into digital format using OCR and NLP techniques, improving data accessibility and processing efficiency."
+    },
+    {
+        "title": "Grievance redressal system for corporate clients",
+        "date": "2023",
+        "desc": "Designed and implemented a grievance redressal system for corporate clients, having capability to connect with customers via socket.io. Enabling interaction based grievance redressalutilizing NLP for senti"
+    }
+]

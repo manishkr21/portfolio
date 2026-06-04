@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Programming languages",
+      "date": "Core",
+      "desc": "Python, C/C++, JavaScript, Bash, SQL"
+    },
+    {
+        "title": "Databases",
+        "date": "Core",
+        "desc": "MySQL, MySQL Server, SQLite3, Elasticsearch, MongoDB"
+    },
+    {
+        "title": "ML/DL",
+        "date": "Core",
+        "desc": "Pandas, Numpy, Sklearn, Matplotlib, PyTorch, TensorFlow"
+    },
+    {
+      "title": "Web Development",
+      "date": "Intermediate",
+      "desc": "React, Node.js, Express.js, Flask, FastAPI, HTML/CSS, REST APIs, JWT, OAuth, WebSockets"
+    },
+    {
+      "title": "Cloud & DevOps",
+      "date": "Intermediate",
+      "desc": "AWS (EC2, S3, RDS), Docker, Git, CronJobs, vim, Linux, apache2, tmux, systemd"
+    },
+    {
+      "title": "NLP/IR Tools",
+      "date": "Core",
+      "desc": "NLTK, SpaCy, Gensim, Hugging Face Transformers"
+    }
+  ]

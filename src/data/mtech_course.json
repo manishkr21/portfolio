@@ -1,0 +1,61 @@
+[
+    {
+      "code": "CS698T",
+      "code_link": "https://cse.iitk.ac.in/pages/CS698T.html",
+      "course_name": "Introduction to Internet of Things and its Industrial Applications",
+      "instructor": "Prof. Priyanka Bagade",
+      "instructor_link": "https://cpgrams.gov.in/",
+      "google_schlar_link": "https://scholar.google.com/citations?user=z3Fek-8AAAAJ&hl=en"
+    },
+    {
+      "code": "CS771",
+      "code_link": "https://cse.iitk.ac.in/pages/CS771.html",
+      "course_name": "Introduction to Machine Learning",
+      "instructor": "Prof. Nisheeth srivastava",
+      "instructor_link": "https://www.cse.iitk.ac.in/users/nsrivast/",
+      "google_schlar_link": "https://scholar.google.com/citations?user=2dgYRikAAAAJ&hl=en"
+    },
+        {
+        "code": "CS639",
+        "code_link": "https://cse.iitk.ac.in/pages/CS639.html",
+        "course_name": "Program Analysis, Verification and Testing",
+        "instructor": "Prof. Subhajit Roy",
+        "instructor_link": "https://www.cse.iitk.ac.in/users/subhajit/",
+        "google_schlar_link": ""
+    },
+        {
+        "code": "CS641",
+        "code_link": "https://cse.iitk.ac.in/pages/CS641.html",
+        "course_name": "Modern Cryptology",
+        "instructor": "Prof. Manindra Agrawal",
+        "instructor_link": "https://www.cse.iitk.ac.in/users/manindra/",
+        "google_schlar_link": "https://scholar.google.co.in/citations?user=UBXqggoAAAAJ&hl=en"
+    },
+    {
+        "code": "CS657",
+        "code_link": "https://cse.iitk.ac.in/pages/CS657.html",
+        "course_name": "Information Retrieval",
+        "instructor": "Prof. Arnab Bhattcharya",
+        "instructor_link": "https://www.cse.iitk.ac.in/users/arnabb/",
+        "google_schlar_link": "https://scholar.google.com/citations?user=Sk-JV9QAAAAJ&hl=en"
+    },
+
+    {
+        "code": "CS658A",
+        "code_link": "https://cse.iitk.ac.in/pages/CS658A.html",
+        "course_name": "Topics in Malware Analysis Intrusion Detection",
+        "instructor": "Prof. Sandeep Kumar Shukla",
+        "instructor_link": "hhttps://sites.google.com/view/skshukla/",
+        "google_schlar_link": "https://scholar.google.com/citations?user=NmS3wOEAAAAJ&hl=en"
+    },
+    {
+        "code": "CS661",
+        "code_link": "https://cse.iitk.ac.in/pages/CS661.html",
+        "course_name": "Big Data Visual Analytics",
+        "instructor": "Prof. Soumya Dutta",
+        "instructor_link": "https://soumyadutta-cse.github.io/",
+        "google_schlar_link": "https://scholar.google.com/citations?user=7CGMUB8AAAAJ&hl=en"
+    }
+
+
+]

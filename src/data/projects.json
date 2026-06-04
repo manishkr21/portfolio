@@ -1,0 +1,82 @@
+[
+    {
+      "title": "Semantic/Keyword Search Engine for Public Grievances",
+      "github_link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735885&reg=3&lang=2",
+      "date": "2025",
+      "designation": "Mtech Thesis",
+      "skills": ["Elasticsearch", "BM25", "TF-IDF", "NLP", "IR", "Python", "Docker"],
+      "desc": "Develop and Deploy a semantic/keyword search engine for public grievances and supporting documents"
+    },
+    {
+      "title": "MCQ Generation System",
+      "github_link":"https://github.com/manishkr21/MCQ-Generator",
+      "date": "2023",
+      "designation": "Course Project",
+      "skills": ["NLP", "ML", "Python"],
+      "desc": "Text-based search engine using IR techniques."
+    },
+    {
+        "title": "Forest fire prediction & chain saw sound detection system",
+        "github_link": "https://github.com/manishkr21/IOT-Project",
+        "date": "2023",
+        "designation": "Course Project",
+        "skills": ["IoT", "ML", "Python", "Deeplearning"],
+        "desc": "Designed and implemented a system for predicting forest fires and detecting chain saw sounds, improving early warning and response capabilities."
+    },
+    {
+        "title": "Intelligent Irrigation System",
+        "github_link": "https://github.com/manishkr21/Intelligent-irrigation-system",
+        "date": "2023",
+        "designation": "Course Project",
+        "skills": ["IoT", "ML", "Python"],
+        "desc": "Designed and implemented an intelligent irrigation system using IoT and ML techniques, improving water usage efficiency and crop yield."
+    },
+    {
+        "title": "Automatic Malware Detection System",
+        "github_link": "https://github.com/manishkr21/Automated-malware-classification",
+        "date": "2023",
+        "designation": "Course Project",
+        "skills": ["ML", "Python","PyQT", "sklearn", "Linux", "Microsoft Malware Classification Challenge Dataset"],
+        "desc": "Designed and implemented an automatic malware detection system using ML techniques, improving security and threat identification."
+    },
+    {
+        "title": "Simple ChatApp with socket.io",
+        "github_link": "https://github.com/manishkr21/chatApp",
+        "date": "2023",
+        "designation": "Personal Project",
+        "skills": ["Node.js", "socket.io", "React", "Express.js"],
+        "desc": "Designed and implemented a simple chat application with socket.io, enabling real-time communication between users."
+    },
+    {
+        "title": "Hindi word Analyzer",
+        "github_link": "https://github.com/manishkr21/Hindi-Words-Analyzer",
+        "date": "2023",
+        "designation": "Course Project",
+        "skills": ["NLP", "Python", "IndicBert", "Hugging Face Transformers"],
+        "desc": "Designed and implemented a Hindi word analyzer using NLP techniques, improving text processing and understanding for Hindi language applications."
+    },
+    {
+        "title": "Netflix clone",
+        "github_link": "https://github.com/manishkr21/MovieStreamingProject",
+        "date": "2023",
+        "designation": "Personal Project",
+        "skills": ["React", "Node.js", "Express.js", "MySQL"],
+        "desc": "Designed and implemented a Netflix clone with a modern UI and responsive design, allowing users to browse and stream movies and TV shows."
+    },
+    {
+        "title": "Utilizing OpenCV for Image Conversion and Manipulation",
+        "github_link": "https://github.com/manishkr21/image_convertor",
+        "date": "2023",
+        "designation": "Personal Project",
+        "skills": ["OpenCV", "Python", "HTML/CSS", "JavaScript", "Flask"],
+        "desc": "Designed and implemented a system for converting and manipulating images using OpenCV, improving image processing capabilities."
+    },
+    {
+        "title": "Develop a Search Engine using Posting Lists, Boolean logic, BM25 and TF-IDF from scratch",
+        "github_link": "https://github.com/manishkr21/Information-Retrieval-System",
+        "date": "2023",
+        "designation": "Course Project",
+        "skills": ["Python", "NLP", "IR"],
+        "desc": "Designed and implemented a search engine using Posting Lists, Boolean logic, BM25 and TF-IDF techniques from scratch, to learn the underlying principles of search engines and information retrieval."
+    }
+]
